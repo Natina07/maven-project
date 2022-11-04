@@ -1,3 +1,3 @@
 Hello, World!
 Test it
-Hello world again. Jenkins is just too cool
+hello world again. jenkins is just too cool
